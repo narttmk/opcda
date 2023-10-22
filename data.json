@@ -1,0 +1,1004 @@
+[
+  {
+    "title": "#MonitorACLFile",
+    "path": "#MonitorACLFile",
+    "dataType": null,
+    "id": "#MonitorACLFile",
+    "icon": "/src/assets/images/icons/icon-tag.svg",
+    "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+  },
+  {
+    "title": "@ClientCount",
+    "path": "@ClientCount",
+    "dataType": null,
+    "id": "@ClientCount",
+    "icon": "/src/assets/images/icons/icon-tag.svg",
+    "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+  },
+  {
+    "title": "@Clients",
+    "path": "@Clients",
+    "dataType": null,
+    "id": "@Clients",
+    "icon": "/src/assets/images/icons/icon-tag.svg",
+    "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+  },
+  {
+    "title": "Simulation Items",
+    "path": "Simulation Items",
+    "dataType": null,
+    "id": "Simulation Items",
+    "icon": "/src/assets/images/icons/icon-desktop.svg",
+    "children": [
+      {
+        "title": "Bucket Brigade",
+        "path": "Simulation Items/Bucket Brigade",
+        "dataType": null,
+        "id": "Bucket Brigade",
+        "children": [
+          {
+            "title": "ArrayOfReal8",
+            "path": "Simulation Items/Bucket Brigade/ArrayOfReal8",
+            "dataType": null,
+            "id": "Bucket Brigade.ArrayOfReal8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "ArrayOfString",
+            "path": "Simulation Items/Bucket Brigade/ArrayOfString",
+            "dataType": null,
+            "id": "Bucket Brigade.ArrayOfString",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Bucket Brigade/Boolean",
+            "dataType": null,
+            "id": "Bucket Brigade.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Bucket Brigade/Int1",
+            "dataType": null,
+            "id": "Bucket Brigade.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Bucket Brigade/Int2",
+            "dataType": null,
+            "id": "Bucket Brigade.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Bucket Brigade/Int4",
+            "dataType": null,
+            "id": "Bucket Brigade.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Bucket Brigade/Money",
+            "dataType": null,
+            "id": "Bucket Brigade.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Bucket Brigade/Real4",
+            "dataType": null,
+            "id": "Bucket Brigade.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Bucket Brigade/Real8",
+            "dataType": null,
+            "id": "Bucket Brigade.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "String",
+            "path": "Simulation Items/Bucket Brigade/String",
+            "dataType": null,
+            "id": "Bucket Brigade.String",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Time",
+            "path": "Simulation Items/Bucket Brigade/Time",
+            "dataType": null,
+            "id": "Bucket Brigade.Time",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Bucket Brigade/UInt1",
+            "dataType": null,
+            "id": "Bucket Brigade.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Bucket Brigade/UInt2",
+            "dataType": null,
+            "id": "Bucket Brigade.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Bucket Brigade/UInt4",
+            "dataType": null,
+            "id": "Bucket Brigade.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Random",
+        "path": "Simulation Items/Random",
+        "dataType": null,
+        "id": "Random",
+        "children": [
+          {
+            "title": "ArrayOfReal8",
+            "path": "Simulation Items/Random/ArrayOfReal8",
+            "dataType": null,
+            "id": "Random.ArrayOfReal8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "ArrayOfString",
+            "path": "Simulation Items/Random/ArrayOfString",
+            "dataType": null,
+            "id": "Random.ArrayOfString",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Random/Boolean",
+            "dataType": null,
+            "id": "Random.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Random/Int1",
+            "dataType": null,
+            "id": "Random.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Random/Int2",
+            "dataType": null,
+            "id": "Random.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Random/Int4",
+            "dataType": null,
+            "id": "Random.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int8",
+            "path": "Simulation Items/Random/Int8",
+            "dataType": null,
+            "id": "Random.Int8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Random/Money",
+            "dataType": null,
+            "id": "Random.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Qualities",
+            "path": "Simulation Items/Random/Qualities",
+            "dataType": null,
+            "id": "Random.Qualities",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Random/Real4",
+            "dataType": null,
+            "id": "Random.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Random/Real8",
+            "dataType": null,
+            "id": "Random.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "String",
+            "path": "Simulation Items/Random/String",
+            "dataType": null,
+            "id": "Random.String",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Time",
+            "path": "Simulation Items/Random/Time",
+            "dataType": null,
+            "id": "Random.Time",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Random/UInt1",
+            "dataType": null,
+            "id": "Random.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Random/UInt2",
+            "dataType": null,
+            "id": "Random.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Random/UInt4",
+            "dataType": null,
+            "id": "Random.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt8",
+            "path": "Simulation Items/Random/UInt8",
+            "dataType": null,
+            "id": "Random.UInt8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Read Error",
+        "path": "Simulation Items/Read Error",
+        "dataType": null,
+        "id": "Read Error",
+        "children": [
+          {
+            "title": "ArrayOfReal8",
+            "path": "Simulation Items/Read Error/ArrayOfReal8",
+            "dataType": null,
+            "id": "Read Error.ArrayOfReal8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "ArrayOfString",
+            "path": "Simulation Items/Read Error/ArrayOfString",
+            "dataType": null,
+            "id": "Read Error.ArrayOfString",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Read Error/Boolean",
+            "dataType": null,
+            "id": "Read Error.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Read Error/Int1",
+            "dataType": null,
+            "id": "Read Error.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Read Error/Int2",
+            "dataType": null,
+            "id": "Read Error.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Read Error/Int4",
+            "dataType": null,
+            "id": "Read Error.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Read Error/Money",
+            "dataType": null,
+            "id": "Read Error.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Read Error/Real4",
+            "dataType": null,
+            "id": "Read Error.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Read Error/Real8",
+            "dataType": null,
+            "id": "Read Error.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "String",
+            "path": "Simulation Items/Read Error/String",
+            "dataType": null,
+            "id": "Read Error.String",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Time",
+            "path": "Simulation Items/Read Error/Time",
+            "dataType": null,
+            "id": "Read Error.Time",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Read Error/UInt1",
+            "dataType": null,
+            "id": "Read Error.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Read Error/UInt2",
+            "dataType": null,
+            "id": "Read Error.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Read Error/UInt4",
+            "dataType": null,
+            "id": "Read Error.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Saw-toothed Waves",
+        "path": "Simulation Items/Saw-toothed Waves",
+        "dataType": null,
+        "id": "Saw-toothed Waves",
+        "children": [
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Saw-toothed Waves/Int1",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Saw-toothed Waves/Int2",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Saw-toothed Waves/Int4",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Saw-toothed Waves/Money",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Saw-toothed Waves/Real4",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Saw-toothed Waves/Real8",
+            "dataType": null,
+            "id": "Saw-toothed Waves.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Saw-toothed Waves/UInt1",
+            "dataType": null,
+            "id": "Saw-toothed Waves.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Saw-toothed Waves/UInt2",
+            "dataType": null,
+            "id": "Saw-toothed Waves.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Saw-toothed Waves/UInt4",
+            "dataType": null,
+            "id": "Saw-toothed Waves.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Square Waves",
+        "path": "Simulation Items/Square Waves",
+        "dataType": null,
+        "id": "Square Waves",
+        "children": [
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Square Waves/Boolean",
+            "dataType": null,
+            "id": "Square Waves.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Square Waves/Int1",
+            "dataType": null,
+            "id": "Square Waves.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Square Waves/Int2",
+            "dataType": null,
+            "id": "Square Waves.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Square Waves/Int4",
+            "dataType": null,
+            "id": "Square Waves.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Square Waves/Real4",
+            "dataType": null,
+            "id": "Square Waves.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Square Waves/Real8",
+            "dataType": null,
+            "id": "Square Waves.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Square Waves/UInt1",
+            "dataType": null,
+            "id": "Square Waves.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Square Waves/UInt2",
+            "dataType": null,
+            "id": "Square Waves.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Square Waves/UInt4",
+            "dataType": null,
+            "id": "Square Waves.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Triangle Waves",
+        "path": "Simulation Items/Triangle Waves",
+        "dataType": null,
+        "id": "Triangle Waves",
+        "children": [
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Triangle Waves/Int1",
+            "dataType": null,
+            "id": "Triangle Waves.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Triangle Waves/Int2",
+            "dataType": null,
+            "id": "Triangle Waves.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Triangle Waves/Int4",
+            "dataType": null,
+            "id": "Triangle Waves.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Triangle Waves/Money",
+            "dataType": null,
+            "id": "Triangle Waves.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Triangle Waves/Real4",
+            "dataType": null,
+            "id": "Triangle Waves.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Triangle Waves/Real8",
+            "dataType": null,
+            "id": "Triangle Waves.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Triangle Waves/UInt1",
+            "dataType": null,
+            "id": "Triangle Waves.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Triangle Waves/UInt2",
+            "dataType": null,
+            "id": "Triangle Waves.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Triangle Waves/UInt4",
+            "dataType": null,
+            "id": "Triangle Waves.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Write Error",
+        "path": "Simulation Items/Write Error",
+        "dataType": null,
+        "id": "Write Error",
+        "children": [
+          {
+            "title": "ArrayOfReal8",
+            "path": "Simulation Items/Write Error/ArrayOfReal8",
+            "dataType": null,
+            "id": "Write Error.ArrayOfReal8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "ArrayOfString",
+            "path": "Simulation Items/Write Error/ArrayOfString",
+            "dataType": null,
+            "id": "Write Error.ArrayOfString",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Write Error/Boolean",
+            "dataType": null,
+            "id": "Write Error.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Write Error/Int1",
+            "dataType": null,
+            "id": "Write Error.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Write Error/Int2",
+            "dataType": null,
+            "id": "Write Error.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Write Error/Int4",
+            "dataType": null,
+            "id": "Write Error.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Write Error/Money",
+            "dataType": null,
+            "id": "Write Error.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Write Error/Real4",
+            "dataType": null,
+            "id": "Write Error.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Write Error/Real8",
+            "dataType": null,
+            "id": "Write Error.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "String",
+            "path": "Simulation Items/Write Error/String",
+            "dataType": null,
+            "id": "Write Error.String",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Time",
+            "path": "Simulation Items/Write Error/Time",
+            "dataType": null,
+            "id": "Write Error.Time",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Write Error/UInt1",
+            "dataType": null,
+            "id": "Write Error.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Write Error/UInt2",
+            "dataType": null,
+            "id": "Write Error.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Write Error/UInt4",
+            "dataType": null,
+            "id": "Write Error.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      },
+      {
+        "title": "Write Only",
+        "path": "Simulation Items/Write Only",
+        "dataType": null,
+        "id": "Write Only",
+        "children": [
+          {
+            "title": "ArrayOfReal8",
+            "path": "Simulation Items/Write Only/ArrayOfReal8",
+            "dataType": null,
+            "id": "Write Only.ArrayOfReal8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "ArrayOfString",
+            "path": "Simulation Items/Write Only/ArrayOfString",
+            "dataType": null,
+            "id": "Write Only.ArrayOfString",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Boolean",
+            "path": "Simulation Items/Write Only/Boolean",
+            "dataType": null,
+            "id": "Write Only.Boolean",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int1",
+            "path": "Simulation Items/Write Only/Int1",
+            "dataType": null,
+            "id": "Write Only.Int1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int2",
+            "path": "Simulation Items/Write Only/Int2",
+            "dataType": null,
+            "id": "Write Only.Int2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Int4",
+            "path": "Simulation Items/Write Only/Int4",
+            "dataType": null,
+            "id": "Write Only.Int4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Money",
+            "path": "Simulation Items/Write Only/Money",
+            "dataType": null,
+            "id": "Write Only.Money",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real4",
+            "path": "Simulation Items/Write Only/Real4",
+            "dataType": null,
+            "id": "Write Only.Real4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Real8",
+            "path": "Simulation Items/Write Only/Real8",
+            "dataType": null,
+            "id": "Write Only.Real8",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "String",
+            "path": "Simulation Items/Write Only/String",
+            "dataType": null,
+            "id": "Write Only.String",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "Time",
+            "path": "Simulation Items/Write Only/Time",
+            "dataType": null,
+            "id": "Write Only.Time",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt1",
+            "path": "Simulation Items/Write Only/UInt1",
+            "dataType": null,
+            "id": "Write Only.UInt1",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt2",
+            "path": "Simulation Items/Write Only/UInt2",
+            "dataType": null,
+            "id": "Write Only.UInt2",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "UInt4",
+            "path": "Simulation Items/Write Only/UInt4",
+            "dataType": null,
+            "id": "Write Only.UInt4",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Configured Aliases",
+    "path": "Configured Aliases",
+    "dataType": null,
+    "id": "Configured Aliases",
+    "icon": "/src/assets/images/icons/icon-desktop.svg",
+    "children": [
+      {
+        "title": "vmo",
+        "path": "Configured Aliases/vmo",
+        "dataType": null,
+        "id": "vmo",
+        "children": [
+          {
+            "title": "bool",
+            "path": "Configured Aliases/vmo/bool",
+            "dataType": null,
+            "id": "vmo.bool",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "byte",
+            "path": "Configured Aliases/vmo/byte",
+            "dataType": null,
+            "id": "vmo.byte",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "char",
+            "path": "Configured Aliases/vmo/char",
+            "dataType": null,
+            "id": "vmo.char",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "date",
+            "path": "Configured Aliases/vmo/date",
+            "dataType": null,
+            "id": "vmo.date",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "double",
+            "path": "Configured Aliases/vmo/double",
+            "dataType": null,
+            "id": "vmo.double",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "dword",
+            "path": "Configured Aliases/vmo/dword",
+            "dataType": null,
+            "id": "vmo.dword",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "float",
+            "path": "Configured Aliases/vmo/float",
+            "dataType": null,
+            "id": "vmo.float",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "long",
+            "path": "Configured Aliases/vmo/long",
+            "dataType": null,
+            "id": "vmo.long",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "qword",
+            "path": "Configured Aliases/vmo/qword",
+            "dataType": null,
+            "id": "vmo.qword",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "short",
+            "path": "Configured Aliases/vmo/short",
+            "dataType": null,
+            "id": "vmo.short",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          },
+          {
+            "title": "string",
+            "path": "Configured Aliases/vmo/string",
+            "dataType": null,
+            "id": "vmo.string",
+            "icon": "/src/assets/images/icons/icon-tag.svg",
+            "iconActive": "/src/assets/images/icons/icon-tag-active.svg"
+          }
+        ]
+      }
+    ]
+  }
+]
